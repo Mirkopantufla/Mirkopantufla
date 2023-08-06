@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
 </a>
 <a href="https://github.com/Mirkopantufla"> 
-<img src="https://img.shields.io/badge/flask-0F0F0F?style=for-the-badge&logo=flask&logoColor=white"> 
+	<img src="https://img.shields.io/badge/flask-0F0F0F?style=for-the-badge&logo=flask&logoColor=white"> 
 </a> 
 
-#### Programing Tools
+#### Herramientas de Programación
 <a href="https://github.com/Mirkopantufla">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 </a>
@@ -71,15 +71,19 @@ Here are some ideas to get you started:
 </a>
 
 
-#### CSS & Design Tools
+#### Herramientas de Diseño
 <a href="https://github.com/Mirkopantufla">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </a>
 
-#### Cloud Tools and Services
+#### Servicios y Herramientas Cloud
 <a href="https://github.com/Mirkopantufla">
   <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
+<br/>
+<br/>
+
 ![Mirkopantufla Github Stats](https://github-readme-stats.vercel.app/api?username=Mirkopantufla&count_private=true&show_icons=true&include_all_commits=true)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirkopantufla&hide=TeX&layout=compact)
