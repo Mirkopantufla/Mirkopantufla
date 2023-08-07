@@ -1,6 +1,6 @@
 # Hola a todxs! 👋
   Soy una persona entusiasta, que le gusta aprender cosas nuevas y tambien muy paciente, pero con gustos extraños.
-  Actualmente estoy en busca de nuevos desafios, disponibilidad inmediata para aprender cosas nuevas!
+  Actualmente estoy en busca de nuevos desafios. Disponibilidad inmediata para aprender cosas nuevas!
 
 #### Redes Personales
   <a href="https://www.linkedin.com/in/mirko-pasten-carcamo/">
