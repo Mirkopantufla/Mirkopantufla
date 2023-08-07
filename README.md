@@ -2,7 +2,7 @@
   Soy una persona entusiasta, que le gusta aprender cosas nuevas y tambien muy paciente, pero con gustos extraños.
   Actualmente estoy en busca de nuevos desafios. Disponibilidad inmediata para aprender cosas nuevas!
 
-#### Redes Personales
+#### Redes Sociales
   <a href="https://www.linkedin.com/in/mirko-pasten-carcamo/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a>
