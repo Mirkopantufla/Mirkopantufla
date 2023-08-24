@@ -1,5 +1,5 @@
 # Hola a todxs! 👋
-  Soy una persona entusiasta, que le gusta aprender cosas nuevas y tambien muy paciente, pero con gustos extraños.
+  Soy una persona entusiasta, que le gusta aprender lenguajes de programación nuevos, me caracterizo por ser muy paciente y relajado con la gente que me rodea y tambien por mi disposición a escuchar a los demás.
   Actualmente estoy en busca de nuevos desafios. Disponibilidad inmediata para aprender cosas nuevas!
 
 #### Correo Personal
